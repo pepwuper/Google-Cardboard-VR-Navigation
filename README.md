@@ -25,3 +25,5 @@ To Set Up NavMesh for Google Cardboard VR:
 - Google Cardboard Unity SDK and Demo Download Link: https://developers.google.com/cardboard/unity/download
 - Unity Navigation and Pathfinding: http://docs.unity3d.com/Manual/Navigation.html
 
+---
+Studio Pepwuper http://www.pepwuper.com/
