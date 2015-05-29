@@ -2,6 +2,7 @@
 Simple scripts for adding Unity Navigation and Pathfinding to Google Cardboard VR. 
 
 Video Demo: https://www.youtube.com/watch?v=k9ee3hakMLk
+Video How-to: https://www.youtube.com/watch?v=9w5WdImac2M
 
 Direct Download Link to Unity Package (.unitypackage): https://github.com/pepwuper/Google-Cardboard-VR-Navigation/raw/master/GoogleCardboardVRNavigationForUnity.unitypackage
 
