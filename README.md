@@ -14,7 +14,7 @@ To Set Up NavMesh for Google Cardboard VR:
 2. Add **FollowPlayer** to **CardboardMain** prefab
 3. Add a player game object to the scene. Assign the player game object to the *Player* variable on **FollowPlayer**
 4. (optional) Also add **FollowPlayer** to the **Canvas** object in the Cardboard VR demo scene and assign the player gameobject to the Player variable if you want the menu to be at the player's feet at all times
-5. Add **PlayerMoto**r* to player
+5. Add **PlayerMotor** to player
 6. Assign the **GazePointer** gameobject to the *Cursor* variable 
 7. Set up nevmesh on the floor
 8. Add an Event Trigger to the floor object
