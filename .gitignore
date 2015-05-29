@@ -1,0 +1,35 @@
+# =============== #
+# Ignored Folders #
+# =============== #
+Assets/Cardboard/
+Assets/Plugins/
+
+# ============= #
+# Ignored Files #
+# ============= #
+Assets/Plugins.meta
+Assets/Cardboard.meta
+
+# =============== #
+# Unity generated #
+# =============== #
+ProjectSettings/
+Temp/
+Obj/
+UnityGenerated/
+Library/
+Assets/AssetStoreTools*
+
+# ===================================== #
+# Visual Studio / MonoDevelop generated #
+# ===================================== #
+ExportedObj/
+*.svd
+*.userprefs
+*.csproj
+*.pidb
+*.suo
+*.sln
+*.user
+*.unityproj
+*.booproj
