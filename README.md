@@ -1,5 +1,5 @@
 # Google Cardboard VR with Unity Navigation / Pathfinding
-Simple scripts for adding Unity Navigation and Pathfinding to Google Cardboard VR. 
+Simple scripts for adding Unity Navigation and Pathfinding to Google Cardboard VR. (from [Studio Pepwuper](http://www.pepwuper.com/portfolio/google-cardboard-vr-with-unity-navigation-pathfinding/))
 
 - Video Demo: https://www.youtube.com/watch?v=k9ee3hakMLk
 - Video How-to: https://www.youtube.com/watch?v=9w5WdImac2M
